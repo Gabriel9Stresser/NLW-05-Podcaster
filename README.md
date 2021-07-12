@@ -1,6 +1,11 @@
 <h1 align="center">
     <img alt="Podcastr" title="Podcastr" src="./screens/podcastr.svg" />
 </h1>
+<p align="center">
+  <img alt="Moveit" src="./screens/icon.svg" width="40%">
+</p>
+
+<br>
 
 <p align="center">
   <a href="./LICENSE">
@@ -18,11 +23,7 @@
 
 <br>
 
-<p align="center">
-  <img alt="Moveit" src="./screens/icon.svg" width="40%">
-</p>
 
-<br>
 <br>
 
 ## 🎥 Showcase
