@@ -11,13 +11,13 @@
   <a href="./LICENSE">
   <img src="https://img.shields.io/github/license/Gabriel9Stresser/NLW-05-Podcaster"/>
   </a>
-  <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/Gabriel9Stresser/NLW-05-Podcaste" />
-  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/Gabriel9Stresser/NLW-05-Podcaste" />
-  <img alt="" src="https://img.shields.io/github/repo-size/Gabriel9Stresser/NLW-05-Podcaste" />
+  <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/Gabriel9Stresser/NLW-05-Podcaster" />
+  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/Gabriel9Stresser/NLW-05-Podcaster" />
+  <img alt="" src="https://img.shields.io/github/repo-size/Gabriel9Stresser/NLW-05-Podcaster" />
   <img alt="Standard - JavaScript Style Guide" src="https://img.shields.io/badge/code%20style-standard-brightgreen.svg" />
   <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/Gabriel9Stresser/NLW-05-Podcaste" />
-  <img alt="Github Star" src="https://img.shields.io/github/stars/Gabriel9Stresser/NLW-05-Podcaste?style=social" />
-  <img alt="Github Forks" src="https://img.shields.io/github/forks/Gabriel9Stresser/NLW-05-Podcaste?style=social" />
+  <img alt="Github Star" src="https://img.shields.io/github/stars/Gabriel9Stresser/NLW-05-Podcaster?style=social" />
+  <img alt="Github Forks" src="https://img.shields.io/github/forks/Gabriel9Stresser/NLW-05-Podcaster?style=social" />
 </p>
 
 
